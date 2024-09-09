@@ -15,8 +15,7 @@ public class DriversLicense
 
   public DriversLicense(int number, boolean truckAndBus)
   {
-    this.number = number;
-    this.? = truckAndBus;
+    this(number,truckAndBus,truckAndBus);
   }
 
   public DriversLicense(int number)
@@ -31,17 +30,17 @@ public class DriversLicense
 
   public boolean hasPermitForDrivingTruck()
   {
-    return ?
+    return permitForTruck;
   }
 
   public boolean hasPermitForDrivingBus()
   {
-    return ?
+    return permitForBus;
   }
 
   public String toString()
   {
-    return
+    return "License number: " + number + ". " + "Truck permit: " + permitForTruck + ". " + "Bus permit: " + permitForBus + ".";
   }
 
 
