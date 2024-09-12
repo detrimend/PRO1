@@ -3,15 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Address_v1/Address_v1.iml" filepath="$PROJECT_DIR$/Address_v1/Address_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" filepath="$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Email_v1/Email_v1.iml" filepath="$PROJECT_DIR$/Email_v1/Email_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Name_v1/Name_v1.iml" filepath="$PROJECT_DIR$/Name_v1/Name_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO1.iml" filepath="$PROJECT_DIR$/PRO1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person_v1/Person_v1.iml" filepath="$PROJECT_DIR$/Person_v1/Person_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person_v2/Person_v2.iml" filepath="$PROJECT_DIR$/Person_v2/Person_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v3/Person_v3.iml" filepath="$PROJECT_DIR$/Person_v3/Person_v3.iml" />
     </modules>
   </component>
 </project>

@@ -88,6 +88,19 @@ public class Clock
     return (getTimeInSeconds() - time.getTimeInSeconds() < 0);
   }
 
+  public Clock timeTo(Clock time)
+  {
+    int difference = time.getTimeInSeconds() - this.getTimeInSeconds();
+    if (time.isBefore(this))
+    {
+      return new Clock (difference + 24*3600);
+    }
+    else
+    {
+      return new Clock (difference);
+    }
+  }
+
   public String toString()
   {
     String s = getSimpleTime() + ":";
