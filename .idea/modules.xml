@@ -19,7 +19,10 @@
       <module fileurl="file://$PROJECT_DIR$/Person_v1/Person_v1.iml" filepath="$PROJECT_DIR$/Person_v1/Person_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person_v2/Person_v2.iml" filepath="$PROJECT_DIR$/Person_v2/Person_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Person_v3/Person_v3.iml" filepath="$PROJECT_DIR$/Person_v3/Person_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v4/Person_v4.iml" filepath="$PROJECT_DIR$/Person_v4/Person_v4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Skabeloner/Skabeloner.iml" filepath="$PROJECT_DIR$/Skabeloner/Skabeloner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Song_v1/Song_v1.iml" filepath="$PROJECT_DIR$/Song_v1/Song_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Song_v2/Song_v2.iml" filepath="$PROJECT_DIR$/Song_v2/Song_v2.iml" />
     </modules>
   </component>
 </project>
