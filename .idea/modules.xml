@@ -6,10 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Course_v1/Course_v1.iml" filepath="$PROJECT_DIR$/Course_v1/Course_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" filepath="$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Email_v1/Email_v1.iml" filepath="$PROJECT_DIR$/Email_v1/Email_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Email_v2/Email_v2.iml" filepath="$PROJECT_DIR$/Email_v2/Email_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Grade_v1/Grade_v1.iml" filepath="$PROJECT_DIR$/Grade_v1/Grade_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v1/HotelRoom_v1.iml" filepath="$PROJECT_DIR$/HotelRoom_v1/HotelRoom_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" filepath="$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" filepath="$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear_v1/LeapYear_v1.iml" filepath="$PROJECT_DIR$/LeapYear_v1/LeapYear_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" filepath="$PROJECT_DIR$/MyDate_v2/MyDate_v2.iml" />
