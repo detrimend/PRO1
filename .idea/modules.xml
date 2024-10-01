@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Address_v1/Address_v1.iml" filepath="$PROJECT_DIR$/Address_v1/Address_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array_List_v2/Array_List_v2.iml" filepath="$PROJECT_DIR$/Array_List_v2/Array_List_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_v1/Array_v1.iml" filepath="$PROJECT_DIR$/Array_v1/Array_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
@@ -17,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" filepath="$PROJECT_DIR$/HotelRoom_v2/HotelRoom_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" filepath="$PROJECT_DIR$/HotelRoom_v3/HotelRoom_v3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hotel_v1/Hotel_v1.iml" filepath="$PROJECT_DIR$/Hotel_v1/Hotel_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel_v2/Hotel_v2.iml" filepath="$PROJECT_DIR$/Hotel_v2/Hotel_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear_v1/LeapYear_v1.iml" filepath="$PROJECT_DIR$/LeapYear_v1/LeapYear_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_Steffen/MyDate_Steffen.iml" filepath="$PROJECT_DIR$/MyDate_Steffen/MyDate_Steffen.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" filepath="$PROJECT_DIR$/MyDate_v1/MyDate_v1.iml" />
@@ -32,6 +34,8 @@
       <module fileurl="file://$PROJECT_DIR$/Skabeloner/Skabeloner.iml" filepath="$PROJECT_DIR$/Skabeloner/Skabeloner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Song_v1/Song_v1.iml" filepath="$PROJECT_DIR$/Song_v1/Song_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Song_v2/Song_v2.iml" filepath="$PROJECT_DIR$/Song_v2/Song_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleList_v2/VehicleList_ArrayList.iml" filepath="$PROJECT_DIR$/VehicleList_v2/VehicleList_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VehicleList_v1/VehicleList_array.iml" filepath="$PROJECT_DIR$/VehicleList_v1/VehicleList_array.iml" />
     </modules>
   </component>
 </project>

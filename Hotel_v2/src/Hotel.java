@@ -1,12 +1,14 @@
+import java.util.ArrayList;
+
 public class Hotel
 {
   private String name;
-  private HotelRoom[] rooms;
+  private ArrayList<HotelRoom> rooms;
 
-  public Hotel(String name, HotelRoom[] rooms)
+  public Hotel(String name)
   {
     this.name = name;
-    this.rooms = rooms;
+    this.rooms = new ArrayList<>();
   }
 
   public String getName()
@@ -16,17 +18,17 @@ public class Hotel
 
   public int getNumberOfRooms()
   {
-    return rooms.length;
+    return rooms.size();
   }
 
   public int getNumberOfAvailableRooms()
   {
     int numberOfAvailableRooms = 0;
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (!rooms[i].isOccupied())
+      if (!rooms.get(i).isOccupied())
       {
-        numberOfAvailableRooms ++;
+        numberOfAvailableRooms++;
       }
     }
     return numberOfAvailableRooms;
@@ -35,9 +37,9 @@ public class Hotel
   public int getNumberOfAvailableRooms(String type)
   {
     int numberOfAvailableRooms = 0;
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (rooms[i].getType().equals(type) && !rooms[i].isOccupied())
+      if (rooms.get(i).getType().equals(type) && !rooms.get(i).isOccupied())
       {
         numberOfAvailableRooms++;
       }
@@ -47,11 +49,11 @@ public class Hotel
 
   public HotelRoom getFirstAvailableRoom()
   {
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (!rooms[i].isOccupied())
+      if (!rooms.get(i).isOccupied())
       {
-        return rooms[i];
+        return rooms.get(i);
       }
     }
     return null;
@@ -59,11 +61,11 @@ public class Hotel
 
   public HotelRoom getFirstAvailableRoom(double maxPrice)
   {
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (!rooms[i].isOccupied() && rooms[i].getPrice() <= maxPrice)
+      if (!rooms.get(i).isOccupied() && rooms.get(i).getPrice() <= maxPrice)
       {
-        return rooms[i];
+        return rooms.get(i);
       }
     }
     return null;
@@ -76,9 +78,9 @@ public class Hotel
     int index = 0;
     for (int i = 0; i < availableRooms.length; i++)
     {
-      if (rooms[i].getType().equals(type) && !rooms[i].isOccupied())
+      if (rooms.get(i).getType().equals(type) && !rooms.get(i).isOccupied())
       {
-        availableRooms[index] = rooms[i];
+        availableRooms[index] = rooms.get(i);
         index++;
       }
     }
@@ -87,9 +89,9 @@ public class Hotel
 
   public boolean hasGuest(Guest guest)
   {
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (rooms[i].isOccupied() && rooms[i].getGuest().equals(guest))
+      if (rooms.get(i).isOccupied() && rooms.get(i).getGuest().equals(guest))
       {
         return true;
       }
@@ -99,11 +101,11 @@ public class Hotel
 
   public HotelRoom getGuest(Guest guest)
   {
-    for (int i = 0; i < rooms.length; i++)
+    for (int i = 0; i < rooms.size(); i++)
     {
-      if (rooms[i].isOccupied() && rooms[i].getGuest().equals(guest))
+      if (rooms.get(i).isOccupied() && rooms.get(i).getGuest().equals(guest))
       {
-        return rooms[i];
+        return rooms.get(i);
       }
     }
     return null;
