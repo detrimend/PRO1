@@ -14,7 +14,7 @@ public class EqualsTemplate
     }
       EqualsTemplate other = (EqualsTemplate) obj;
       return x == other.x         // use == for primitive types
-          && s.equals(other.s)    // use .equals for objects
+          && s.equals(other.s)    // se .equals for objects
           && p.equals(other.p);
     }
 }

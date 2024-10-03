@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Address_v1/Address_v1.iml" filepath="$PROJECT_DIR$/Address_v1/Address_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Address_v2/Address_v2.iml" filepath="$PROJECT_DIR$/Address_v2/Address_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ApartmentComplex_v1/ApartmentComplex_v1.iml" filepath="$PROJECT_DIR$/ApartmentComplex_v1/ApartmentComplex_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_List_v2/Array_List_v2.iml" filepath="$PROJECT_DIR$/Array_List_v2/Array_List_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array_v1/Array_v1.iml" filepath="$PROJECT_DIR$/Array_v1/Array_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
