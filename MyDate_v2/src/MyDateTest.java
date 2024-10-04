@@ -20,43 +20,31 @@ public class MyDateTest
     MyDate myDate1 = new MyDate(day, month, year);
 
     System.out.println("The date is: ");
-
     System.out.println(myDate1);
 
     System.out.println();
-
     System.out.println("Day: " + myDate1.getDay());
-
     System.out.println("Month: " + myDate1.getMonth());
-
     System.out.println("Year: " + myDate1.getYear());
 
     System.out.println();
-
     myDate1.set(30,12,2024);
 
     System.out.println("New, manually set date:");
-
     System.out.println(myDate1);
 
     System.out.println();
-
     System.out.println("Day: " + myDate1.getDay());
-
     System.out.println("Month: " + myDate1.getMonth());
-
     System.out.println("Year: " + myDate1.getYear());
 
     System.out.println();
-
     System.out.println("Leap year: " + myDate1.isLeapYear());
 
     System.out.println();
-
     System.out.println("Days in month: " + myDate1.numberOfDaysInMonth());
 
     System.out.println();
-
     System.out.println("Month name: " + myDate1.getMonthName());
 
     myDate1.stepForwardOneDay();
@@ -68,6 +56,6 @@ public class MyDateTest
     myDate1.stepForwardOneDay();
     System.out.println(myDate1);
 
-
+    keyboard.close();
   }
 }
