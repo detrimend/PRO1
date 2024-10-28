@@ -188,11 +188,7 @@ public class MyDate
     }
   }
 
-  public boolean isBefore()
-  {
-
-  }
-
+ 
   public String toString()
   {
     String all = day + "/" + month + "/" + year;
