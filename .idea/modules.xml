@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Array_v1/Array_v1.iml" filepath="$PROJECT_DIR$/Array_v1/Array_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v1/Clock_v1.iml" filepath="$PROJECT_DIR$/Clock_v1/Clock_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Clock_v2/Clock_v2.iml" filepath="$PROJECT_DIR$/Clock_v2/Clock_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClubMember/ClubMember.iml" filepath="$PROJECT_DIR$/ClubMember/ClubMember.iml" />
       <module fileurl="file://$PROJECT_DIR$/Course_v1/Course_v1.iml" filepath="$PROJECT_DIR$/Course_v1/Course_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" filepath="$PROJECT_DIR$/DriversLicense_v1/DriversLicense_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Email_v1/Email_v1.iml" filepath="$PROJECT_DIR$/Email_v1/Email_v1.iml" />
@@ -35,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/Skabeloner/Skabeloner.iml" filepath="$PROJECT_DIR$/Skabeloner/Skabeloner.iml" />
       <module fileurl="file://$PROJECT_DIR$/Song_v1/Song_v1.iml" filepath="$PROJECT_DIR$/Song_v1/Song_v1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Song_v2/Song_v2.iml" filepath="$PROJECT_DIR$/Song_v2/Song_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TwoDimensionalShape/TwoDimensionalShape.iml" filepath="$PROJECT_DIR$/TwoDimensionalShape/TwoDimensionalShape.iml" />
       <module fileurl="file://$PROJECT_DIR$/VehicleHierarchy/VehicleHierarchy.iml" filepath="$PROJECT_DIR$/VehicleHierarchy/VehicleHierarchy.iml" />
       <module fileurl="file://$PROJECT_DIR$/VehicleList_v2/VehicleList_ArrayList.iml" filepath="$PROJECT_DIR$/VehicleList_v2/VehicleList_ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/VehicleList_v1/VehicleList_array.iml" filepath="$PROJECT_DIR$/VehicleList_v1/VehicleList_array.iml" />
